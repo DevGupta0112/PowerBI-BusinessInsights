@@ -55,7 +55,7 @@ A professional collection of interactive dashboards built with **Microsoft Power
 ## 📬 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- [GMail]devg7898@gmail.com()
+- [GMail](devg7898@gmail.com)
 
 ---
 
